@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيقى</string>
+    <string name="tb_name" />
+    <string name="tb_mobile" />
+    <string name="tv_name">الاسم</string>
+    <string name="tv_mobile">الموبايل</string>
+    <string name="tv_username" />
+    <string name="tv_usermobile" />
+    <string name="hint">ادخل اسمك</string>
+    <string name="hint2">ادخل موبايلك</string>
+    <string name="bt_send">ارسال</string>
+    <string name="bt_close">اغلاق</string>
+    <string name="bt_end">انهاء</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Observer 1</string>
+    <string name="btn_Arrya">"From Array "</string>
+    <string name="btn_iterable">from iterable</string>
+</resources>

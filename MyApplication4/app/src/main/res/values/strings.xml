@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tb_name" />
+    <string name="tb_mobile" />
+    <string name="tv_name">Name</string>
+    <string name="tv_mobile">Mobile</string>
+    <string name="tv_username" />
+    <string name="tv_usermobile" />
+    <string name="hint">Enter Your Name</string>
+    <string name="hint2">Enter Your Phone</string>
+    <string name="bt_send">SEND</string>
+    <string name="bt_close">CLOSE</string>
+    <string name="bt_end">CLOSE</string>
+</resources>

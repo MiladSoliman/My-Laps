@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycelerView</string>
+    <string name="tv_cakeName" />
+    <string name="cake_desc" />
+    <string name="tv_cakename">name</string>
+    <string name="tv_cakedesc">desc</string>
+</resources>

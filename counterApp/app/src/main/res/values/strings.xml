@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">counterApp</string>
+    <string name="tv_count" />
+</resources>

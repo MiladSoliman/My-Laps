@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVC-Project</string>
+    <string name="btn_allproudcts">get All product</string>
+    <string name="btn_favProduct">get favourite products</string>
+    <string name="btn_finsh">exit</string>
+    <string name="tv_title">tilte</string>
+    <string name="tv_desc">description</string>
+    <string name="tv_brand2">brand</string>
+    <string name="tv_price">price</string>
+    <string name="btn_fav">add to favourite</string>
+    <string name="btn_delete">Delete from favourite</string>
+    <string name="btn_remove">Delete From Favourite</string>
+</resources>

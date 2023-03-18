@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VersionOFMobiles</string>
+    <string name="tv_1">Title</string>
+    <string name="tv_title" />
+    <string name="tv_2">Price</string>
+    <string name="tv_3">Brand</string>
+    <string name="tv_4">Description</string>
+    <string name="tv_5">Rating</string>
+    <string name="tv_price" />
+    <string name="tv_brand" />
+    <string name="tv_desc" />
+    <string name="ratingbar" />
+    <string name="ratingBar">rate</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_prev">previous</string>
+    <string name="tv_44">Desc</string>
+</resources>

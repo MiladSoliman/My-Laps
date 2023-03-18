@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RetroFit</string>
+    <string name="tv_id">id</string>
+    <string name="tv_title">title</string>
+    <string name="tv_desc">desc</string>
+    <string name="tv_price">price</string>
+    <string name="tv_discount">discount</string>
+    <string name="rate_bar" />
+    <string name="rating_bar">rate</string>
+    <string name="tv_stock">stock</string>
+    <string name="tv_brand">brand</string>
+    <string name="tv_category">categoory</string>
+</resources>

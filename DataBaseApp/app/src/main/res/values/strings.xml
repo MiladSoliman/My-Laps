@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DataBaseApp</string>
+    <string name="tb_name" />
+    <string name="hint_name">Enter your Name</string>
+    <string name="hint_phone">Enter your Phone</string>
+    <string name="bt_send">Send</string>
+    <string name="bt_close">Close</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_phone">Phone</string>
+    <string name="tv_username" />
+    <string name="tv_userphone" />
+    <string name="btn_send_share">Send Share</string>
+    <string name="btn_write_share">Read Sahre</string>
+    <string name="btn_send_inter">Send Inter</string>
+    <string name="btn_read_inter">Read Inter</string>
+    <string name="btn_send_data">Send Data</string>
+    <string name="btn_read_data">Read Data</string>
+    <string name="btn_end">close</string>
+</resources>

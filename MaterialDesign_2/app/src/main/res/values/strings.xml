@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MaterialDesign_2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_clock">09:30</string>
+    <string name="tv_temp" />
+    <string name="tv_temp2">16 C</string>
+    <string name="tv_Date">Monday , 31 Aug</string>
+    <string name="tv_artical">In my city (I live in Ukraine, Dnepr) weather is warm, sunny, and comfortable in summer, i like go out with my friends and have fun. But not always i have got so weather. For example in spring i love only end of April and beginning of May, March doesn\'t amuse me at all. Especially amuses me first warm days in a year after winter. What can i say about autumn, it is beautiful season but a bit sadd. My least favourite season is winter, in spite of wonderful Christmas evening and etc., i do not like winter because of she\'s very cold days, when i want to stay at home and do not want to go anywhere.</string>
+    <string name="bt_Pressure">Pressure</string>
+    <string name="bt_humidty">humidty</string>
+    <string name="bt_temp">tempreture</string>
+    <string name="bt_vis">visabilty</string>
+    <string name="bt_wind">Wind</string>
+</resources>

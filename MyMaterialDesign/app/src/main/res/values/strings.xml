@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Material Design</string>
+    <string name="tv_Clock">09:30</string>
+    <string name="tv_clock">09:30</string>
+    <string name="tv_clock1">09:30</string>
+    <string name="tv_date">Monday , 31 Aug</string>
+    <string name="tv_temp">16ْ C</string>
+    <string name="tv_text">"In my city (I live in Ukraine, Dnepr) weather is warm, sunny, and comfortable in summer, i like go out with my friends and have fun. But not always i have got so weather. For example in spring i love only end of April and beginning of May, March doesn't amuse me at all. Especially amuses me first warm days in a year after winter. What can i say about autumn, it "</string>
+</resources>
